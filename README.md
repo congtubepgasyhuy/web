@@ -21,7 +21,7 @@ Team Collaborate was built with Laravel 5.7 + VueJs 2.0
 ### 1. Clone the source code or create new project.
 
 ```shell
-git clone https://github.com/minhquang4334/TeamCollaborate.git
+https://github.com/congtubepgasyhuy/web.git
 ```
 
 
